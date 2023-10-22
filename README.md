@@ -140,8 +140,7 @@ select * from popvsvac
 ## COVID 2020 - 2023 DASHBOARD 
 ![Opera Snapshot_2023-10-22_123742_public tableau com](https://github.com/gitbykaran/Covid-Data-Exploration-and-Visulization-/assets/147580511/6c13e84a-7228-48d5-abf0-6cac90a65df5)
 
-### orginal link to dashboard
-https://public.tableau.com/shared/B9Z9CFP68?:display_count=n&:origin=viz_share_link
+[dashboard link](https://public.tableau.com/shared/B9Z9CFP68?:display_count=n&:origin=viz_share_link)
 
 
 
