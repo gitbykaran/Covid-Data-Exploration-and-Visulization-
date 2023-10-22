@@ -9,6 +9,7 @@ Data Exploration is done using two Covid datasets - coviddeaths.csv & covidvacci
 ### Tools
 - Excel - Data Cleaning
 - SQL Server - Data Exploration
+- Tableau
 
 ### Data Analysis with SQL
 ```sql
