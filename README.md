@@ -1,4 +1,4 @@
-# Analyzing COVID-19 Trends (2020-2023) Using SQL
+# Analyzing COVID-19 Trends (2020-2023) Using SQL & Tableau
 
 ### PROJECT OVERVIEW 
 This data analysis project aims to analyze and derive insights from a comprehensive COVID-19 dataset spanning from 2020 to 2023 using SQL queries. The dataset includes information about confirmed cases, deaths, recoveries, testing rates, and other relevant metrics. The analysis focuses on understanding the trends, patterns, and key metrics related to the spread and impact of COVID-19 over this time period. SQL queries are utilized to extract, aggregate, and visualize the data to provide actionable insights for better understanding the progression of the pandemic.
